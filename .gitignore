@@ -1,0 +1,15 @@
+submit/*
+!submit/.gitkeep
+
+data/*
+!data/.gitkeep
+
+*/__pycache__
+*.pyc
+
+model/*
+!model/.gitkeep
+
+wandb/*
+
+!*.ipynb
