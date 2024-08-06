@@ -1,6 +1,5 @@
 # 2024 DACON AI Track Submit Code
 ## Poster
-(https://drive.google.com/drive/u/1/folders/19tBP2j8mTkiq55YqzrTwDKyv2MyLzyll)
 
 ## Google Drive Link
 - [Google Drive](https://drive.google.com/drive/folders/1l0yqcwItt6ERBk_6O3Aeon3Ptr1chGDS?usp=drive_link)
