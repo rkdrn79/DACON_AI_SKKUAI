@@ -1,5 +1,6 @@
 # 2024 DACON AI Track Submit Code
 ## Poster
+![poster](https://github.com/rkdrn79/DACON_AI_SKKUAI/blob/main/poster.png)
 
 ## Google Drive Link
 - [Google Drive](https://drive.google.com/drive/folders/1l0yqcwItt6ERBk_6O3Aeon3Ptr1chGDS?usp=drive_link)
