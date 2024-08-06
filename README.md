@@ -1,4 +1,10 @@
 # 2024 DACON AI Track Submit Code
+## Leaderboard
+### public
+<img width="1198" alt="image" src="https://github.com/user-attachments/assets/3772d498-1dd6-4419-bece-db670e78e7f1">
+### private
+<img width="1200" alt="image" src="https://github.com/user-attachments/assets/1bb6a336-27a8-4554-ba69-1be68a2c268f">
+
 ## Poster
 ![poster](https://github.com/rkdrn79/DACON_AI_SKKUAI/blob/main/poster.png)
 
